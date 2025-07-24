@@ -8,7 +8,7 @@ This short CTI report highlights threat actors targeting women's rights organiza
 - Based on open-source intelligence (OSINT)
 - Includes actors like APT29 (Cozy Bear) and APT35 (Charming Kitten)
 
-## 📄 Contents
+## Contents
 
 - `report/women4cyber_report.md`: Main threat landscape write-up
 
