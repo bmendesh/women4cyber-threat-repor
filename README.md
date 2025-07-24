@@ -10,7 +10,7 @@ This short CTI report highlights threat actors targeting women's rights organiza
 
 ## Contents
 
-- `report/women4cyber_report.md`: Main threat landscape write-up
+- [CTI - Women4Cyber Threat Landscape Report (PDF)](https://github.com/bmendesh/women4cyber-threat-report/blob/main/CTI%20-%20Women4Cyber%20Threat%20Landscape%20Report.pdf)
 
 ## Why This Project?
 
